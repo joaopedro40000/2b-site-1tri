@@ -38,7 +38,7 @@ body {
 }
 /* secao sobre nos*/
 .sobre_nos{
-    background-image: linear-gradient(#e9ad3f,#f350053f);
+    background-image: linear-gradient(#5f5d58,#a7471ad2);
     color:#FFFFFF;
     display: flex;
     justify-content: center;
@@ -65,11 +65,11 @@ body {
 
 /* secao lojas*/
 .lojas{
-    background-color: #2e2d2d;
+    background-color: #9e0505;
 }
 
 .lojas-titulo{
-color: #e0720a;
+color: #aa682b;
 text-align: center;
 padding: 50px;
 font-size: 45px;
@@ -95,7 +95,7 @@ font-size: 45px;
 .lojas-estado-nome:hover{
     font-weight: 100;
     text-decoration: underline;
-    color: orange;
+    color: rgb(216, 89, 15);
 }
 .lojas-estado-icone{
     width: 30px;
