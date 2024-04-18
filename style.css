@@ -5,6 +5,7 @@
 
 body {
     font-family: 'Mooli';
+    background-image: url("360.jpg"), url("pasta/Imagem2.jpg");
 }
 
 /* secao cabecalho*/
@@ -16,6 +17,7 @@ body {
     align-items: center;
     padding: 24px 0;
     border-bottom: 2px solid #ebdf41fd;
+    
 }
 
 .cabecalho-imagem{
