@@ -10,13 +10,13 @@ body {
 
 /* secao cabecalho*/
 .cabecalho {
-    background-color: #272727;
+    background-color: #c9670cde;
     color: white;
     display: flex;
     justify-content: space-around;
     align-items: center;
     padding: 24px 0;
-    border-bottom: 2px solid #ebdf41fd;
+    border-bottom: 2px solid #ce750ffd;
     
 }
 
