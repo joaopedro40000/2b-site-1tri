@@ -76,7 +76,7 @@ padding: 50px;
 font-size: 45px;
 }
 
-.lojas-todosestados-div{
+.Cientistas-div{
     display: grid;
     grid-template-columns: 25% 25% 25% 25%;
 }
@@ -85,7 +85,7 @@ font-size: 45px;
    
 }
 
-.lojas-estado-img{
+.Cientistas-img{
     width: 20px;
 }
 .lojas-estado-nome{
